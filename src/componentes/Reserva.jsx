@@ -1,5 +1,5 @@
 export default function rRserva (){
     return(
-        <h1>hola</h1>
+        <h1>Aca se mostrara su contenido</h1>
     )
 }

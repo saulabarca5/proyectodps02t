@@ -54,7 +54,7 @@ export default function Login(props) {
                 <div className="col-sm-4 offset-4 mt-5">
                     <div className="card pt-5">
                         <div className="card-header text-center">
-                            <h1>🏨 Hotel Vista Hermosa</h1>
+                            <h1>🏨 HOTEL VISTA HERMOSA</h1>
                         </div>
                     </div>
                     <div className="card-body">
