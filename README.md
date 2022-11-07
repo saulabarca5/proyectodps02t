@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+proyecto Integrantes: Abarca Hernandez, Saul Edenilson AH171506 
+Link de Mockups: https://www.figma.com/file/ARv2s5gHzxN4O8iA55QEty/Mockup-de-proyecto 
+Link de diagramas UML: https://www.figma.com/file/sX9LRLUY8khO5u7sCfW1lT/UML-Proyecto 
+Link de Trello: https://trello.com/saulabarca/boards
+Link de manual Tecnico: https://www.canva.com/design/DAFPQ8vwOgI/iPauyLnoQ_uPhpMpeohmZw/view?utm_content=DAFPQ8vwOgI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link de manual usuario: https://www.canva.com/design/DAFPRd3Qh84/9p_dKQCdl2cHQjnmlIq8LQ/view?utm_content=DAFPRd3Qh84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Licencia 🔐
+------------
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Attribution 4.0 Internacional</a>.
 
-## Available Scripts
+Usted es libre de:
+- Compartir — copiar y redistribuir el material en cualquier medio o formato.
+- Adaptar — remezclar, transformar y construir sobre el material.
+para cualquier fin, incluso comercial.
 
-In the project directory, you can run:
+*Bajo los siguientes términos:*
+- Atribución — Usted debe [dar crédito de manera adecuada](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es# "dar crédito de manera adecuada"), brindar un enlace a la licencia, e [indicar si se han realizado cambios](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es# "indicar si se han realizado cambios"). Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
 
-### `npm start`
+- CompartirIgual — Si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la [misma licencia](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es# "misma licencia") del original.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+No hay restricciones adicionales — No puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier uso permitido por la licencia.
